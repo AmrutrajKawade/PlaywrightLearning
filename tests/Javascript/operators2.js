@@ -23,3 +23,5 @@ a = a+b;
 b = a-b;
 a = a-b;
 
+console.log("a is equals to:- " +a);
+console.log("a is equals to:- " +b);
