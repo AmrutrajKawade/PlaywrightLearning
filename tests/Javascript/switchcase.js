@@ -6,16 +6,16 @@ switch(monthName){
     case "January":
     case "JAN":
     case "JANUARY":
-        monthNumber = 1;
+        monthNumber = 1
         break;
 
     case "Feb":
     case "Februrary":
     case "FEB":
     case "FEBRURARY":
-        monthNumber = 2; 
+        monthNumber = 2
         break;
 
         default:
-            monthNumber = -1;
+            monthNumber = -1
 }
