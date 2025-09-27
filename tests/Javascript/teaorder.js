@@ -1,7 +1,7 @@
 
 function orderTea(customer_name, tea_type){
     return new promise((a,b)=>{
-        let success = false;
+        let success = true;
         if(success){
             a(customer_name + "! " +tea_type+ " Tea is prepared");
         }else{
